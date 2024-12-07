@@ -26,7 +26,7 @@ The site is designed to be clean, responsive, and easy to navigate.
 
 ## 🚀 How to Access the Website
 1. **Online Hosting:**
-   The website is hosted publicly [here](#). 
+   The website is hosted publicly [here](). 
    
 2. **Local Development:**
    To view the website locally:
